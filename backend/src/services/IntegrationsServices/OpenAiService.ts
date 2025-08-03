@@ -1,4 +1,4 @@
-import { MessageUpsertType, proto, WASocket } from "@whiskeysockets/baileys";
+import { MessageUpsertType, proto, WASocket } from "baileys";
 import {
   convertTextToSpeechAndSaveToFile,
   getBodyMessage,
